@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="search">Cari Username</string>
+    <string name="cari">Cari</string>
+    <string name="username">Username</string>
+    <string name="data_tidak_ditemukan">Cari User Github</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Pengikut</string>
+    <string name="tab_text_2">Mengikuti</string>
+    <string name="halaman_pengikut">Halaman Pengikut</string>
+    <string name="halaman_mengikuti">Halaman Mengikuti</string>
+    <string name="ubah_pengaturan_bahasa">Ubah Pengaturan Bahasa</string>
+    <string name="field_kosong">Field ini kosong</string>
+    <string name="follower_not_found">Pengikut tidak ditemukan</string>
+    <string name="following_not_found">Mengikuti tidak ditemukan</string>
+    <string name="logo_github">Logo Github</string>
+    <string name="favorite">Favorite</string>
+
+
+</resources>

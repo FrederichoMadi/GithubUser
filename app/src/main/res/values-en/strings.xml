@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="search">Search Username</string>
+    <string name="cari">Search</string>
+    <string name="username">Username</string>
+    <string name="data_tidak_ditemukan">Search User Github</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <string name="halaman_pengikut">Page Follower</string>
+    <string name="halaman_mengikuti">Page Following</string>
+    <string name="ubah_pengaturan_bahasa">Change Languange Settings</string>
+    <string name="field_kosong">This field is empty</string>
+    <string name="follower_not_found">Follower not found</string>
+    <string name="following_not_found">Following not found</string>
+    <string name="logo_github">Logo Github</string>
+    <string name="favorite">Favorite</string>
+</resources>
